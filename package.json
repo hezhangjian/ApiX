@@ -1,0 +1,14 @@
+{
+  "name": "apix",
+  "version": "0.0.1",
+  "description": "A desktop API client built with Electrobun.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hezhangjian/ApiX.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
